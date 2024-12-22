@@ -1,0 +1,18 @@
+# Table of contents
+
+* [Wizarr Courses](README.md)
+  * [Learning Vue.js](readme/learning-vue/README.md)
+    * [Prerequisites](readme/learning-vue/prerequisites.md)
+    * [Modules](readme/learning-vue/modules/README.md)
+      * [Introduction to Vue 3](readme/learning-vue/modules/module-1.md)
+      * [Vue Components](readme/learning-vue/modules/module-2.md)
+      * [Directives and Interactivity](readme/learning-vue/modules/module-3.md)
+      * [State Management with Pinia](readme/learning-vue/modules/module-4.md)
+      * [Routing with Vue Router](readme/learning-vue/modules/module-5.md)
+      * [Real-World Applications and Best Practices](readme/learning-vue/modules/module-6.md)
+    * [Resources](readme/learning-vue/resources.md)
+  * [Learning Python](readme/learning-python/README.md)
+    * [Prerequisites](readme/learning-python/prerequisites.md)
+    * [Resources](readme/learning-python/resources.md)
+  * [Learning Tailwind](readme/learning-tailwind/README.md)
+    * [Installation](readme/learning-tailwind/installation.md)
